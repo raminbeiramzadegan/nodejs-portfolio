@@ -1,0 +1,25 @@
+/* custom css*/
+/* <!-- Full Name:ramin beiramzadegan  Student Id:301254240 -->  */
+
+body{
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+}
+.navbar{
+    background-color: gray;
+    
+}
+.navbar-nav {
+    margin-left: 50px;;
+}
+
+.btn{
+    margin-top:10px ;
+    background-color: coral;
+}
+.foot{
+    padding-left: 45%;
+}
